@@ -357,7 +357,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "6c55aeaa-e1b4-413b-8ba7-8e01a355c538";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "6c55aeaa-e1b4-413b-8ba7-8e01a355c538";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -900,11 +900,9 @@
     <section class="featured-products-section" id="featured-products" data-zappy-dynamic="true">
       <div class="container">
         <h2 class="section-title">מוצרים מומלצים</h2>
-        <div class="product-grid featured-grid" id="zappy-featured-products">
-          <div class="loading-products">טוען מוצרים...</div>
-        </div>
-        <div class="view-all-products">
-          <a href="/products" class="btn btn-primary">צפה בכל המוצרים →</a>
+        <div class="product-grid featured-grid" id="zappy-featured-products"><div class="no-featured-products">עוד לא נבחרו מוצרים מומלצים. צפו בכל המוצרים שלנו!</div></div>
+        <div class="view-all-products" style="text-align: center !important; display: flex !important; justify-content: center !important; align-items: flex-start !important; width: 100% !important;">
+          <a href="/products" class="btn btn-primary" style="outline: none; color: var(--light-text, #ffffff) !important; border-color: rgb(59, 130, 246) !important; background-color: rgb(59, 130, 246) !important; background-image: none !important;" data-element-type="button" data-element-id="btn-1779589802084-2ff53hbix" data-native-element="true" data-text-color="light">צפה בכל המוצרים →</a>
         </div>
       </div>
     </section>
