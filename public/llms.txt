@@ -1,0 +1,102 @@
+# Blue & White — Generative Engine Optimization Map
+
+> A clothing store seeking a landing page to showcase their fashion offerings and attract customers.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים ל־Blue &amp; White, יעד האופנה המוביל שמביא לך מותגים חזקים, קולקציות עכשוויות וסטייל ייחודי. קנה עכשיו וחווה אופנה ברמה אחרת.
+
+### סיפור המותג
+https://example.com/brand-story
+גלה כיצד Blue &amp; White הפכה לסמל של אופנה ישראלית אותנטית. הסיפור שלנו נולד מתשוקה לעיצוב, מחויבות לאיכות ואהבה עמוקה לסטייל ייחודי. הצטרף למסע.
+
+### קיימות
+https://example.com/sustainability
+ב־Blue &amp; White אנחנו מאמינים שאופנה יכולה להיות יפה וגם אחראית לסביבה. גלה את מחויבותנו לייצור בר־קיימא, חומרים ידידותיים לסביבה ועתיד ירוק יותר.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה, בקשה מיוחדת או סתם רוצים לדעת יותר על הקולקציות שלנו? צוות Blue &amp; White כאן בשבילכם. צרו קשר עוד היום ונשמח לעזור לכם למצוא את הסטייל המושלם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Blue & White
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Blue & White
+
+### Category
+https://example.com/category/:slug
+מוצרים - Blue & White
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Blue & White
+A clothing store seeking a landing page to showcase their fashion offerings and attract customers.
+
+## Target Audience
+- צעירים אורבניים אופנתיים
+- חובבי אופנה ברת קיימא
+- אנשי מקצוע ממוקדי קריירה
+- משפחות קונות אונליין
+- מובילי דעת קהל אופנתיים
+
+## Industry
+Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
